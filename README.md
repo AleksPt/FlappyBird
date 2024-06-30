@@ -1,5 +1,6 @@
 # FlappyBird
 
+### 📺 Демо:
 ![preview](https://github.com/AleksPt/FlappyBird/blob/main/preview.gif)
 
 ### 📱 О приложении:
